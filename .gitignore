@@ -1,0 +1,25 @@
+# Claude Code
+.claude/
+
+# Obsidian workspace settings (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache/
+
+# Obsidian plugins (optional, uncomment if you want to exclude)
+# .obsidian/plugins/
+
+# Trash
+.trash/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Backup files
+*.bak
+*~
