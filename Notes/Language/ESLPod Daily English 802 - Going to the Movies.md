@@ -1,0 +1,3 @@
+## Repeat
+This episode is about the altitude about movies of two people. A man want to know what kind of movie does the girl like. The girl said that she does not like movies with big budget, then the man think she is wired and like movies with small budget. The girl disagree with that, she just don't like movies that are predictable, maybe she think it's too boring. But the man think these kind of movies are hard to understand and he may not like that. And the girl said that ambiguous is ok for her. Then, the man said he was going to see the spider man movie and he think the girl probably not want to go with him. But the girl want to see the film because she can see many kind of movies.
+## Notes
