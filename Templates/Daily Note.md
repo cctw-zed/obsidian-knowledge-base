@@ -1,5 +1,4 @@
-# {{date:YYYY-MM-DD}} - {{date:dddd}}
-
+# <% tp.date.now("YYYY-MM-DD") %> 
 ## 📝 今日记录
 
 ### 想法与灵感

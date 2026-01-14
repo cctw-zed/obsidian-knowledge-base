@@ -1,4 +1,4 @@
-# {{title}}
+# <% tp.file.title %>
 
 ## 概述
 
@@ -16,5 +16,5 @@
 
 
 ---
-创建时间: {{date:YYYY-MM-DD}}
+创建时间: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 标签:
