@@ -7,6 +7,7 @@
 ### InnoDB 核心架构
 - [[InnoDB 架构]] - 整体架构与组件
 - [[MySQL Buffer Pool]] - 缓冲池机制
+- [[MySQL Buffer Pool LRU]] - 缓冲池缓存淘汰算法
 - [[InnoDB 表空间]] - 数据文件组织
 
 ### 存储结构

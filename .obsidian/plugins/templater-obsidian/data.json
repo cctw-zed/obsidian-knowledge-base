@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Notes",
-      "template": "Templates/Standard Note.md"
+      "template": "Templates/Concept Note.md"
     }
   ],
   "enable_file_templates": false,
