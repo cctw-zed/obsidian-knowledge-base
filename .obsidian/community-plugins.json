@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "highlightr-plugin",
+  "quickadd"
 ]

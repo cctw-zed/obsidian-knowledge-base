@@ -35,7 +35,7 @@
 ## 数据库
 
 ### 关系型
-- MySQL
+- [[MySQL-Map]] - MySQL 知识体系
 - PostgreSQL
 
 ### NoSQL
