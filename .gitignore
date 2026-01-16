@@ -11,6 +11,9 @@
 # Obsidian plugins (optional, uncomment if you want to exclude)
 # .obsidian/plugins/
 
+# Obsidian plugin configurations with sensitive data
+.obsidian/plugins/copilot/data.json
+
 # Trash
 .trash/
 
