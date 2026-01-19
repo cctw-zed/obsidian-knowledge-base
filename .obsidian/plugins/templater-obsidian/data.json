@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Notes",
+      "folder": "Notes/Tech",
       "template": "Templates/Concept Note.md"
     }
   ],
